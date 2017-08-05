@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bc9c6dcf1568a41d29254ac626a71b77
+timeCreated: 1488067429
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: White Festive Demo
+  fontNames:
+  - White Festive Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c4b27405a3838454aa950e7da0b1ac72
+timeCreated: 1488067429
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: White Festive Bold Italic Demo
+  fontNames:
+  - White Festive Bold Italic Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

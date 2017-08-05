@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe36974e4f801475c92807eb9a25368f
+timeCreated: 1488067434
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marshmallows and Chocolate
+  fontNames:
+  - Marshmallows and Chocolate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a564ffd7cbcf64ac3a65e328b85df2b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

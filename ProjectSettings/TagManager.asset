@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - remove
+  - ground
+  - NPC
+  - canvas
+  - player
+  - middle
+  - Item
+  - door
+  - kitchenStation
+  - ingredient
+  - StationErrorText
+  - Waste
+  - DumpSpawnPoint
+  - seManager
+  - musicManager
+  - Fire
+  - red
+  - doorToKitchen
+  - doorToFarm
+  - pink
+  - m_farm
+  - m_city
+  - m_kitchen
+  - Indicators
+  - notLocal
+  - mat_player
+  - mat_NPC
+  - playerRed
+  - playerBlue
+  - npc_bound
+  - score_self
+  - score_enemy
+  - Storage
+  - bar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bottom
+    uniqueID: 4097427113
+    locked: 0

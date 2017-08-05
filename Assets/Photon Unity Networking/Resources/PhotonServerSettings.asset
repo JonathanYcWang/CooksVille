@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  HostType: 1
+  Protocol: 0
+  ServerAddress: 
+  ServerPort: 5055
+  VoiceServerPort: 5055
+  AppID: 07babdce-324a-42ab-b9dd-ae325c9a69bd
+  VoiceAppID: cd3bc887-c623-453a-9e4c-5eb5634a64c1
+  PreferredRegion: 1
+  EnabledRegions: -1
+  JoinLobby: 1
+  EnableLobbyStatistics: 0
+  RpcList:
+  - Chat
+  - DestroyRpc
+  - InstantiateRpc
+  - OnAwakeRPC
+  - PickupItemInit
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - addRecipe
+  - networkupdate
+  - delivered
+  - updateMove
+  - updateNewDest
+  - updateNetwork
+  - updateScore
+  - endGameLost
+  - endGameTied
+  - endGaneWon
+  - clear
+  - hideAndShowIngre
+  - openTimeBar
+  - setBar
+  - setBarColor
+  - setTimerbar
+  - addEnemyRecipe
+  - addTeamRecipe
+  - enemmyDelivered
+  - teamDelivered
+  - showMessage
+  - enemyDelivered
+  - addEnemyBonus
+  - addTeamBonus
+  DisableAutoOpenWizard: 1
